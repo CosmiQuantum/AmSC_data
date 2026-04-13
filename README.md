@@ -31,4 +31,4 @@ If you use any of these datasets, please cite the relevant paper listed in the t
 
 ## Contact
 
-For questions about the data or access issues, reach out to the CosmiQ group at Northwestern / Fermilab.
+For questions about the data or access issues, please [open an issue](https://github.com/CosmiQuantum/AmSC_data/issues) on this repository.
