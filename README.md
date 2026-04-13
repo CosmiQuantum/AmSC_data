@@ -1,6 +1,6 @@
 # CosmiQ — Public Datasets
 
-Experimental data from the CosmiQ group (Northwestern / Fermilab), hosted on the [American Science Cloud (AmSC)](https://amsc.fnal.gov).
+Experimental data from the CosmiQ group (Fermilab/IIT/Northwestern), hosted on the [American Science Cloud (AmSC)](https://amsc.fnal.gov).
 
 ## Datasets
 
