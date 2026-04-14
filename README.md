@@ -4,9 +4,9 @@ Experimental data from the CosmiQ group (Fermilab/IIT/Northwestern), hosted on t
 
 ## Datasets
 
-| Dataset | Description | Link |
-|---------|-------------|------|
-| **NEXUS Run 22** | Charge tomography scans from superconducting qubits, 107 m underground at Fermilab. First measurement of correlated charge jumps in a controlled underground radiation environment. [[paper]](https://www.nature.com/articles/s41467-025-63724-4) | [Browse](https://amsc.fnal.gov:2880/amsc/axess/cosmiq/nexus_run_22/) |
+| Dataset | `<dataset>` | Description | Link |
+|---------|------------|-------------|------|
+| **NEXUS Run 22** | `nexus_run_22` | Charge tomography scans from superconducting qubits, 107 m underground at Fermilab. First measurement of correlated charge jumps in a controlled underground radiation environment. [[paper]](https://www.nature.com/articles/s41467-025-63724-4) | [Browse](https://amsc.fnal.gov:2880/amsc/axess/cosmiq/nexus_run_22/) |
 
 More datasets from the NEXUS, QUIET, and LOUD testbeds will be added here as they become available.
 
